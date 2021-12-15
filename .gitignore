@@ -1,10 +1,12 @@
 *.class
 *.log
+.gitignore
 
 # macOS
 .DS_Store
 
 # sbt
+.bsp
 .cache
 .history
 .lib/
